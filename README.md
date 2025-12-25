@@ -29,6 +29,33 @@ This project was built using a modern, serverless-first tech stack:
 
 ---
 
+## 📸 Project Walkthrough
+
+### 1. Landing Page: Department & Semester Hub
+The main entry point where students select their specific Branch (CSE, IT, ECE, etc...) and Semester.
+![Landing Page](assets/departments.png)
+
+### 2. Subject Selection Interface
+After selecting a semester, users are routed to a dynamically filtered list of subjects available for that term.
+![Subject Page](assets/subjects.png)
+
+### 3. Integrated PDF Viewer & File Explorer
+A split-screen interface allowing students to read notes on one side while browsing other files in the sidebar without leaving the page.
+![PDF Viewer](assets/contentViewer.png)
+
+### 4. Footer & Contact Integration
+A feature-rich footer containing a project summary, a functional "Contact Us" form for student feedback, and direct social links (GitHub, LinkedIn, Instagram).
+![Footer](assets/footer.png)
+
+### 5. Live Production Metrics (Vercel)
+Real-time dashboard showing system health and user activity.
+![Vercel Analytics](assets/vercel.png)
+
+### Student Dashboard
+![Student Dashboard](assets/dashboard.png)
+
+---
+
 ## 🚀 Project Status
 
 This project is **live and operational**. It is actively being used by students of the 2025-2029 batch at IIIT Bhopal.
