@@ -25,6 +25,7 @@ This project was built using a modern, serverless-first tech stack:
 * **Authentication**: NextAuth.js (Google OAuth Provider)
 * **Database**: MongoDB Atlas (Integrated via Vercel)
 * **Deployment**: Vercel
+* **Integration**: Google Drive
 
 ---
 
